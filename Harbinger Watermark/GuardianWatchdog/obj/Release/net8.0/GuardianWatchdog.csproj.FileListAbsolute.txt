@@ -1,0 +1,14 @@
+C:\Harbinger Watermark\GuardianWatchdog\bin\Release\net8.0\GuardianWatchdog.exe
+C:\Harbinger Watermark\GuardianWatchdog\bin\Release\net8.0\GuardianWatchdog.deps.json
+C:\Harbinger Watermark\GuardianWatchdog\bin\Release\net8.0\GuardianWatchdog.runtimeconfig.json
+C:\Harbinger Watermark\GuardianWatchdog\bin\Release\net8.0\GuardianWatchdog.dll
+C:\Harbinger Watermark\GuardianWatchdog\bin\Release\net8.0\GuardianWatchdog.pdb
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.AssemblyInfoInputs.cache
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.AssemblyInfo.cs
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.csproj.CoreCompileInputs.cache
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.dll
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\refint\GuardianWatchdog.dll
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.pdb
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\GuardianWatchdog.genruntimeconfig.cache
+C:\Harbinger Watermark\GuardianWatchdog\obj\Release\net8.0\ref\GuardianWatchdog.dll

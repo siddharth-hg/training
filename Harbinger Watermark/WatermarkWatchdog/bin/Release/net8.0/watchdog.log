@@ -1,0 +1,103 @@
+[2026-02-10 17:03:57] Watchdog started
+[2026-02-10 17:03:58] Watermark started successfully
+[2026-02-10 17:06:06] Watermark stopped detected! Restarting...
+[2026-02-10 17:06:06] Watermark started successfully
+[2026-02-10 17:11:48] Watchdog started
+[2026-02-10 17:11:48] Watermark started successfully
+[2026-02-10 17:30:34] Watchdog started
+[2026-02-10 17:30:34] Watermark started successfully
+[2026-02-10 17:37:40] Watchdog started
+[2026-02-10 17:37:41] Watermark started successfully
+[2026-02-10 18:07:21] Watchdog started
+[2026-02-10 18:07:21] Watermark started successfully
+[2026-02-10 18:11:21] Watchdog started
+[2026-02-10 18:11:21] Watermark started successfully
+[2026-02-10 18:20:50] Watchdog started
+[2026-02-10 18:20:51] Watermark started successfully
+[2026-02-11 09:36:04] Watchdog started
+[2026-02-11 09:36:05] Watermark started successfully
+[2026-02-11 14:27:32] Watchdog started
+[2026-02-11 14:27:33] Watermark started successfully
+[2026-02-11 17:51:12] Watchdog started
+[2026-02-11 17:51:12] Watermark started successfully
+[2026-02-11 17:52:06] Watchdog started
+[2026-02-11 17:52:06] Watermark started successfully
+[2026-02-11 17:54:41] Watermark stopped detected! Restarting...
+[2026-02-11 17:54:41] Watermark started successfully
+[2026-02-11 17:55:09] Watermark stopped detected! Restarting...
+[2026-02-11 17:55:09] Watermark started successfully
+[2026-02-11 17:55:13] Watermark stopped detected! Restarting...
+[2026-02-11 17:55:13] Watermark started successfully
+[2026-02-11 18:13:40] Watchdog started (Single instance ensured)
+[2026-02-11 18:13:40] Watermark started successfully
+[2026-02-11 18:15:14] Watermark stopped detected! Restarting...
+[2026-02-11 18:15:14] Watermark started successfully
+[2026-02-11 22:31:29] Watchdog started (Single instance ensured)
+[2026-02-11 22:31:30] Watermark started successfully
+[2026-02-12 00:11:44] Primary Watchdog started
+[2026-02-12 00:11:45] Watermark started successfully
+[2026-02-12 00:12:30] Watermark stopped! Restarting...
+[2026-02-12 00:12:30] Watermark started successfully
+[2026-02-12 00:12:43] Guardian not running, starting it...
+[2026-02-12 00:13:05] Primary Watchdog started
+[2026-02-12 00:13:05] Watermark already running
+[2026-02-12 00:13:25] Guardian not running, starting it...
+[2026-02-12 09:30:41] Primary Watchdog started
+[2026-02-12 09:30:41] Watermark started successfully
+[2026-02-12 15:12:01] Primary Watchdog started
+[2026-02-12 15:12:01] Watermark started successfully
+[2026-02-12 15:12:44] Watermark stopped! Restarting...
+[2026-02-12 15:12:44] Watermark started successfully
+[2026-02-12 15:12:52] Watermark stopped! Restarting...
+[2026-02-12 15:12:53] Watermark started successfully
+[2026-02-12 15:12:59] Guardian not running, starting it...
+[2026-02-12 15:13:16] Primary Watchdog started
+[2026-02-12 15:13:16] Watermark already running
+[2026-02-12 15:30:20] Watermark stopped! Restarting...
+[2026-02-12 15:30:20] Watermark started successfully
+[2026-02-12 15:30:35] Primary Watchdog started
+[2026-02-12 15:30:35] Watermark already running
+[2026-02-12 15:30:52] Guardian not running, starting it...
+[2026-02-12 15:34:31] Watermark stopped! Restarting...
+[2026-02-12 15:34:31] Watermark started successfully
+[2026-02-12 15:34:42] Primary Watchdog started
+[2026-02-12 15:34:42] Watermark already running
+[2026-02-12 15:34:52] Guardian not running, starting it...
+[2026-02-12 15:36:00] Guardian not running, starting it...
+[2026-02-12 15:36:07] Guardian not running, starting it...
+[2026-02-12 15:36:28] Primary Watchdog started
+[2026-02-12 15:36:28] Watermark already running
+[2026-02-12 15:36:35] Primary Watchdog started
+[2026-02-12 15:36:35] Watermark already running
+[2026-02-12 15:36:42] Guardian not running, starting it...
+[2026-02-12 15:36:50] Primary Watchdog started
+[2026-02-12 15:36:50] Watermark already running
+[2026-02-12 15:54:16] Primary Watchdog started
+[2026-02-12 15:54:16] Watermark started successfully
+[2026-02-12 15:54:34] Watermark stopped! Restarting...
+[2026-02-12 15:54:34] Watermark started successfully
+[2026-02-12 15:54:47] Primary Watchdog started
+[2026-02-12 15:54:47] Watermark already running
+[2026-02-12 15:54:55] Guardian not running, starting it...
+[2026-02-12 15:56:11] 2 watermarks detected, killing extras
+[2026-02-12 15:57:18] Watermark stopped! Restarting...
+[2026-02-12 15:57:18] Watermark started successfully
+[2026-02-12 15:57:24] Watermark stopped! Restarting...
+[2026-02-12 15:57:25] Watermark started successfully
+[2026-02-12 15:57:28] Watermark stopped! Restarting...
+[2026-02-12 15:57:28] Watermark started successfully
+[2026-02-12 15:57:33] Watermark stopped! Restarting...
+[2026-02-12 15:57:33] Watermark started successfully
+[2026-02-12 15:57:47] Watermark stopped! Restarting...
+[2026-02-12 15:57:47] Watermark started successfully
+[2026-02-12 15:58:07] Watermark stopped! Restarting...
+[2026-02-12 15:58:07] Watermark started successfully
+[2026-02-12 17:09:47] Primary Watchdog started
+[2026-02-12 17:09:47] Watermark started successfully
+[2026-02-12 17:15:23] Primary Watchdog started
+[2026-02-12 17:15:24] Watermark started successfully
+[2026-02-12 17:18:36] Guardian not running, starting it...
+[2026-02-12 17:18:43] Watermark stopped! Restarting...
+[2026-02-12 17:18:43] Watermark started successfully
+[2026-02-12 17:18:58] Primary Watchdog started
+[2026-02-12 17:18:58] Watermark already running
